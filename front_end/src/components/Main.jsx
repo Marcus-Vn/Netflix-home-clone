@@ -11,7 +11,6 @@ const Main = () => {
 
   const movies = contentArray;
 
-  console.log(contentArray)
   return (
     <>
       <div className='main'>
