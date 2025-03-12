@@ -1,6 +1,7 @@
 # Netflix Clone (Homepage)
 
 In this project, I recreated the Netflix UI from scratch.
+Also implemented the carousel using pure CSS and Javascripit for logic.
 
 ## Technologies used
 
